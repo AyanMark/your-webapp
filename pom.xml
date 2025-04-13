@@ -18,7 +18,6 @@
   <build>
     <finalName>your-webapp</finalName>
 
-  <build>
   <plugins>
     <plugin>
       <groupId>org.sonarsource.scanner.maven</groupId>
