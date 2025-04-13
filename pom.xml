@@ -17,7 +17,7 @@
   </dependencies>
   <build>
     <finalName>your-webapp</finalName>
-  </build>
+
   <build>
   <plugins>
     <plugin>
